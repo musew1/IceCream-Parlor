@@ -1,0 +1,3 @@
+ OrderID           Flavor    Type         Toppings
+       1        Chocolate     Cup        Sprinkles
+      12       Strawberry     Cup   ChocolateChips
